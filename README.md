@@ -1,10 +1,10 @@
-##개인용 데이터 분석 연습
+개인용 데이터 분석 연습
 --- 
-|Column|Description|
+
 |:---|:---|
-|HR 분석|시간|
-|Accelerometer1RMS|진동 가속도1|
-|Accelerometer2RMS|진동 가속도2|
+|HR 분석|업무 우수 성과자 탐색|
+| |퇴사 촉발 요인 탐색|
+|의료 분석|진동 가속도2|
 |Current |전기모터 암페어(Ampere)|
 |Pressure|워터 펌프 후 루프의 압력(Bar) |
 |Temperature|엔진의 온도(섭씨 온도)|
